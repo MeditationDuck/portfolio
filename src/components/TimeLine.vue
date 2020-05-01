@@ -41,14 +41,14 @@ export default {
     return {
       items:[
         {
-          color: "purple lighten-1",
+          color: "purple",
           icon: "mdi-alarm",
           title: "誕生",
           content:"2002年4月，人間となった．",
 
         },
         { 
-          color: "red lighten-1",
+          color: "pink lighten-2",
           icon: "mdi-monitor-multiple",
           title: "テクノロジーに興味を持つ",
           content:"ジャンクPCを触ったことをきっかけに，僕の歴史がスタートした．",
