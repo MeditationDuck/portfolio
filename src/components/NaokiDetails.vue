@@ -2,7 +2,7 @@
   <v-container>
     <v-layout>
       <v-flex>
-        <v-flex class="display-3 font-weight-black text-xs-center ma-5">
+        <v-flex class="display-2 font-weight-black text-xs-center ma-5">
           私のITの世界への根源
         </v-flex>
         <v-flex>
@@ -21,6 +21,7 @@
     </v-layout>
   </v-container>
 </template>
+
 <script>
 export default {
   name: "NaokiDetails"
